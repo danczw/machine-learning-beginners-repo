@@ -1,4 +1,4 @@
-# Lending-Club_Example-Case
+### Random-Forest_Landing-Club
 using Python and Scikit-learn to apply decision tree and random forest classification to a real world case.
 
 - Lending Club connects people who need money (borrowers) with people who have money (investors)
