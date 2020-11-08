@@ -1,5 +1,7 @@
 # Repository-for-ML-Beginners
-Introductory repository showcasing basic ML algorithms
+Introductory repository showcasing basic ML algorithms.
+
+Introducing various machine learning algorithms on a basic level using Python.
 
  <table>
   <tr>
