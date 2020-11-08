@@ -15,35 +15,35 @@ _This repository introduces various machine learning algorithms on a basic level
     <td>01</td>
     <td>Linear Regression</td>
     <td>Ecommerce Customer</td>
-    <td>Supervised</td>
+    <td>Supervised ML</td>
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/01_Linear-Regression_Ecommerce-Customer">Github</a></td>
   </tr>
   <tr>
     <td>02</td>
     <td>Logistic Regression</td>
     <td>Advertising Data</td>
-    <td>Supervised</td>
+    <td>Supervised ML</td>
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/02_Logistic-Regression_Advertising-Data">Github</a></td>
   </tr>
    <tr>
     <td>03</td>
     <td>Random Forest</td>
     <td>Lending Club</td>
-    <td>Supervised</td>
+    <td>Supervised ML</td>
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/03_Random-Forest_Landing-Club">Github</a></td>
   </tr>
    <tr>
     <td>04</td>
     <td>Support Vector Mashine</td>
     <td>Flower Iris</td>
-    <td>Supervised</td>
+    <td>Supervised ML</td>
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/04_Support-Vector-Mashine_Lending-Club">Github</a></td>
   </tr>
    <tr>
     <td>05</td>
     <td>Natural Language Processing (Support Vector Classifier)</td>
     <td>Yelp Review</td>
-    <td>Unsupervised</td>
+    <td>Supervised ML</td>
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/05_Natural-Language-Processing_Yelp-Review">Github</a></td>
   </tr>
    <tr>
