@@ -3,18 +3,45 @@ Introductory repository showcasing basic ML algorithms
 
  <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Part</th>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Notebook</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>1</td>
+    <td>Linear Regression</td>
+    <td>Ecommerce Customer</td>
+    <td>Link</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>2</td>
+    <td>Logistic Regression</td>
+    <td>Advertising Data</td>
+    <td>Link</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>Random Forest</td>
+    <td>Lending Club</td>
+    <td>Link</td>
+  </tr>
+   <tr>
+    <td>4</td>
+    <td>Support Vector Mashine</td>
+    <td>Flower Iris</td>
+    <td>Link</td>
+  </tr>
+   <tr>
+    <td>5</td>
+    <td>Natural Language Processing</td>
+    <td>Yelp Review</td>
+    <td>Link</td>
+  </tr>
+   <tr>
+    <td>6</td>
+    <td>Neural Network</td>
+    <td>House Pricing</td>
+    <td>Link</td>
   </tr>
 </table> 
