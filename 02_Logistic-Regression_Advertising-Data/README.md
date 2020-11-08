@@ -1,4 +1,4 @@
-# Logistic-Regression_Advertising-Data
+### Logistic-Regression_Advertising-Data
 Using Python and Scikit-learn to apply logistic regression classification to a fictional use case.
 - advertising company is testing a specific type of online advertising campaign
 - they would like to identify user that would click on a specific new advertising based on their features before playing a the ad
