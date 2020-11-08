@@ -8,7 +8,7 @@ _This repository introduces various machine learning algorithms on a basic level
     <th>Part</th>
     <th>Algorithm</th>
     <th>Topic</th>
-    <th>Repo</th>
+    <th>Notebook</th>
   </tr>
   <tr>
     <td>01</td>
