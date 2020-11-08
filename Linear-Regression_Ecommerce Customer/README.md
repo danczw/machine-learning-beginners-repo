@@ -1,4 +1,4 @@
-Linear Regressuin - Ecommerce Customer
+# Linear Regressuin - Ecommerce Customer
 
 Using Python and Scikit-learn to apply linear regression to a fictional use case:
 
