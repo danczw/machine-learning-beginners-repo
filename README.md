@@ -36,7 +36,7 @@ _This repository introduces various machine learning algorithms on a basic level
   </tr>
    <tr>
     <td>05</td>
-    <td>Natural Language Processing (Support Vector Classifier)</td>
+    <td>Natural Language Processing (TF-IDF, Support Vector Classifier)</td>
     <td>Yelp Review</td>
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/05_Natural-Language-Processing_Yelp-Review">Github</a></td>
   </tr>
@@ -57,4 +57,6 @@ _This repository introduces various machine learning algorithms on a basic level
   <li>Seaborn</li>
   <li>Sklearn</li>
   <li>Scipy</li>
+  <li>IPython</li>
+  <li>nltk</li>
 </ul>
