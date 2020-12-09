@@ -59,4 +59,5 @@ _This repository introduces various machine learning algorithms on a basic level
   <li>Scipy</li>
   <li>IPython</li>
   <li>nltk</li>
+  <li>tensorflor</li>
 </ul>
