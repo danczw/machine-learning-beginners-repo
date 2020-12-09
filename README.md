@@ -46,4 +46,12 @@ _This repository introduces various machine learning algorithms on a basic level
     <td>House Pricing</td>
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/06_Neural-Network_House-Pricing">Github</a></td>
   </tr>
-</table> 
+</table>
+
+Requirements:
+<ul>
+  <li>Python</li>
+  <li>Pandas</li>
+  <li>Numpy</li>
+  <li>Seaborn</li>
+</ul>
