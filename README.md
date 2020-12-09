@@ -47,8 +47,7 @@ _This repository introduces various machine learning algorithms on a basic level
     <td><a href="https://github.com/danczw/Repository-for-ML-Beginners/tree/main/06_Neural-Network_House-Pricing">Github</a></td>
   </tr>
 </table>
-
-
+<br>
 **Requirements:**
 <ul>
   <li>Python 3</li>
