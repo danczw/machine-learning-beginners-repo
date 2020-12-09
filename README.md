@@ -48,6 +48,7 @@ _This repository introduces various machine learning algorithms on a basic level
   </tr>
 </table>
 <br>
+
 **Requirements:**
 <ul>
   <li>Python 3</li>
