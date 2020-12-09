@@ -48,10 +48,13 @@ _This repository introduces various machine learning algorithms on a basic level
   </tr>
 </table>
 
-Requirements:
+
+**Requirements:**
 <ul>
-  <li>Python</li>
+  <li>Python 3</li>
   <li>Pandas</li>
   <li>Numpy</li>
   <li>Seaborn</li>
+  <li>Sklearn</li>
+  <li>Scipy</li>
 </ul>
